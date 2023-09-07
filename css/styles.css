@@ -705,7 +705,7 @@ progress {
 
 .row-cols-3 > * {
   flex: 0 0 auto;
-  width: 33.3333333333%;
+  width: 2533%;
 }
 
 .row-cols-4 > * {
@@ -745,7 +745,7 @@ progress {
 
 .col-4 {
   flex: 0 0 auto;
-  width: 33.33333333%;
+  width: 25%;
 }
 
 .col-5 {
@@ -801,7 +801,7 @@ progress {
 }
 
 .offset-4 {
-  margin-left: 33.33333333%;
+  margin-left: 25%;
 }
 
 .offset-5 {
@@ -910,7 +910,7 @@ progress {
   }
   .row-cols-sm-3 > * {
     flex: 0 0 auto;
-    width: 33.3333333333%;
+    width: 2533%;
   }
   .row-cols-sm-4 > * {
     flex: 0 0 auto;
@@ -942,7 +942,7 @@ progress {
   }
   .col-sm-4 {
     flex: 0 0 auto;
-    width: 33.33333333%;
+    width: 25%;
   }
   .col-sm-5 {
     flex: 0 0 auto;
@@ -989,7 +989,7 @@ progress {
     margin-left: 25%;
   }
   .offset-sm-4 {
-    margin-left: 33.33333333%;
+    margin-left: 25%;
   }
   .offset-sm-5 {
     margin-left: 41.66666667%;
@@ -1079,7 +1079,7 @@ progress {
   }
   .row-cols-md-3 > * {
     flex: 0 0 auto;
-    width: 33.3333333333%;
+    width: 2533%;
   }
   .row-cols-md-4 > * {
     flex: 0 0 auto;
@@ -1111,7 +1111,7 @@ progress {
   }
   .col-md-4 {
     flex: 0 0 auto;
-    width: 33.33333333%;
+    width: 25%;
   }
   .col-md-5 {
     flex: 0 0 auto;
@@ -1158,7 +1158,7 @@ progress {
     margin-left: 25%;
   }
   .offset-md-4 {
-    margin-left: 33.33333333%;
+    margin-left: 25%;
   }
   .offset-md-5 {
     margin-left: 41.66666667%;
@@ -1248,7 +1248,7 @@ progress {
   }
   .row-cols-lg-3 > * {
     flex: 0 0 auto;
-    width: 33.3333333333%;
+    width: 2533%;
   }
   .row-cols-lg-4 > * {
     flex: 0 0 auto;
@@ -1280,7 +1280,7 @@ progress {
   }
   .col-lg-4 {
     flex: 0 0 auto;
-    width: 33.33333333%;
+    width: 25%;
   }
   .col-lg-5 {
     flex: 0 0 auto;
@@ -1327,7 +1327,7 @@ progress {
     margin-left: 25%;
   }
   .offset-lg-4 {
-    margin-left: 33.33333333%;
+    margin-left: 25%;
   }
   .offset-lg-5 {
     margin-left: 41.66666667%;
@@ -1417,7 +1417,7 @@ progress {
   }
   .row-cols-xl-3 > * {
     flex: 0 0 auto;
-    width: 33.3333333333%;
+    width: 2533%;
   }
   .row-cols-xl-4 > * {
     flex: 0 0 auto;
@@ -1449,7 +1449,7 @@ progress {
   }
   .col-xl-4 {
     flex: 0 0 auto;
-    width: 33.33333333%;
+    width: 25%;
   }
   .col-xl-5 {
     flex: 0 0 auto;
@@ -1496,7 +1496,7 @@ progress {
     margin-left: 25%;
   }
   .offset-xl-4 {
-    margin-left: 33.33333333%;
+    margin-left: 25%;
   }
   .offset-xl-5 {
     margin-left: 41.66666667%;
@@ -1586,7 +1586,7 @@ progress {
   }
   .row-cols-xxl-3 > * {
     flex: 0 0 auto;
-    width: 33.3333333333%;
+    width: 2533%;
   }
   .row-cols-xxl-4 > * {
     flex: 0 0 auto;
@@ -1618,7 +1618,7 @@ progress {
   }
   .col-xxl-4 {
     flex: 0 0 auto;
-    width: 33.33333333%;
+    width: 25%;
   }
   .col-xxl-5 {
     flex: 0 0 auto;
@@ -1665,7 +1665,7 @@ progress {
     margin-left: 25%;
   }
   .offset-xxl-4 {
-    margin-left: 33.33333333%;
+    margin-left: 25%;
   }
   .offset-xxl-5 {
     margin-left: 41.66666667%;
